@@ -1,0 +1,14 @@
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.AssemblyInfoInputs.cache
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.AssemblyInfo.cs
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.csproj.CoreCompileInputs.cache
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.exe
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.deps.json
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.runtimeconfig.json
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.dll
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.pdb
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.dll
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\refint\ConsoleApp72.dll
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.pdb
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.genruntimeconfig.cache
+C:\Users\Tynysov Azamat\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ref\ConsoleApp72.dll
